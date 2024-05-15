@@ -9,6 +9,7 @@ Console.WriteLine("valor de a:"+a);
 Console.WriteLine("valor de b:"+b);
 
 //EJERCICIO 1.
+Console.WriteLine("\n----------Ejercicio 1----------\n");
 
 int num, invertido = 0;
 
@@ -30,6 +31,7 @@ if (num > 0)
 Console.WriteLine("\nEl numero invertido es: " + invertido);
 
 //EJERCICIO 2.
+Console.WriteLine("\n----------Ejercicio 2----------\n");
 
 int opcion, num1, num2, resultado;
 
@@ -98,3 +100,4 @@ switch (opcion)
     Console.WriteLine("La opcion ingresada es incorrecta.");
     break;
 }
+
